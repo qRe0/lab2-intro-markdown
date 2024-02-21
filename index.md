@@ -1,5 +1,3 @@
-# This is an `<h1>` header, which is the largest
-
 ``` golang
 var myVar string = "Hello, world!"
 or
@@ -7,6 +5,12 @@ myVar := "Hello, world!"
 or
 var myVar = "Hello, world!"
 ```
+
+- [ ] Do all the labs
+- [ ] Watch few episodes of the show
+- [ ] Introduce myself to the world
+
+# This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
 
