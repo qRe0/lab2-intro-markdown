@@ -1,5 +1,13 @@
 # This is an `<h1>` header, which is the largest
 
+``` golang
+var myVar string = "Hello, world!"
+or
+myVar := "Hello, world!"
+or
+var myVar = "Hello, world!"
+```
+
 ## This is an `<h2>` header
 
 ###### This is an `<h6>` header, which is the smallest
